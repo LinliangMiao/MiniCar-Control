@@ -1,0 +1,9 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj",
+".\Objects\motor.obj",
+".\Objects\serial.obj",
+".\Objects\velometer.obj",
+".\Objects\ultrosonic.obj",
+".\Objects\delay.obj" 
+TO ".\Objects\car01" 
+PRINT(".\Listings\car01.m51") RAMSIZE(256) 
